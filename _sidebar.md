@@ -4,9 +4,6 @@
     * [手动设置obfs-local](SS/windows-obfs.md)
     * [关于PAC的一些问题](SS/windows-pac.md)
   * [Shadowsocks Android版本使用教程](SS/android.md)
-* SSR系列（ShadowsocksR）
-  * [ShadowsocksR各版本下载中心](SSR/download.md)
-  * 使用教程请参考SSRR
 * SSRR系列（ShadowsocksRR）
   * [ShadowsocksRR各版本下载中心](SSRR/download.md)
   * [ShadowsocksRR Windows版本使用教程](SSRR/windows.md)
