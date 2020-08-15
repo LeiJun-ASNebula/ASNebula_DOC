@@ -14,19 +14,19 @@
 1. 下载、解压、启动三步走策略╮(╯▽╰)╭
 2. 进入解压后的`ShadowsocksR-win-4.9.2`文件夹
 3. Windows 7及以下系统请启动`ShadowsocksR-dotnet2.0.exe`，Windows 8及以上系统请启动`ShadowsocksR-dotnet4.0.exe`
-<center><img src="https://img.asnet.ga/i/2020/03/19/1w4oz2.png"></center>
+<center><img src="https://img.ascn.site/i/2020/03/19/1w4oz2.png"></center>
 	* 期间可能会有防火墙的提示，请选择`允许访问`。
 4. 设置服务器订阅
 	* 右键右下角托盘处的白色小飞机图标→服务器订阅→SSR服务器订阅设置
-<center><img src="https://img.asnet.ga/i/2020/03/19/1wrild.png"></center>
+<center><img src="https://img.ascn.site/i/2020/03/19/1wrild.png"></center>
 	* 先点击Add，再将上面得到的订阅地址复制进`网址`栏，点击确定。
 	* 注意： 一定要确保将订阅地址复制进`网址`栏，替换掉默认的地址。
-<center><img src="https://img.asnet.ga/i/2020/03/19/1yc7lw.png"></center>
+<center><img src="https://img.ascn.site/i/2020/03/19/1yc7lw.png"></center>
 	* 右键小飞机→服务器订阅→更新SSR服务器订阅（不通过代理）
 5. 之后，便可以选择节点用了（图例是很早以前的了，目前不止这么点节点）
-<center><img src="https://img.asnet.ga/i/2020/03/19/206393.png"></center>
+<center><img src="https://img.ascn.site/i/2020/03/19/206393.png"></center>
 	* 客户端默认开启负载均衡，意思是将流量分配到不同的节点上，由于目前这个功能不是很完善，建议关闭这个功能。（将负载均衡的对勾去掉即可）
-<center><img src="https://img.asnet.ga/i/2020/03/19/21kxhf.png"></center>
+<center><img src="https://img.ascn.site/i/2020/03/19/21kxhf.png"></center>
 6. 选择代理模式
 	* 推荐设置：平时使用PAC模式，只代理常见被墙网站，当需要代理没有被墙的网站或者不常见的被墙网站时切换成全局模式，使用完后切换回PAC模式。
 	* PAC模式
@@ -44,5 +44,5 @@
 7. 使用SOCKS5代理
 	* 本地使用
 		* 软件运行时提供一个本地SOCKS5代理，地址为127.0.0.1，端口为1080。如果你的软件支持使用SOCKS5代理，便可设置使用。此处以Telegram为例
-<center><img src="https://img.asnet.ga/i/2020/03/19/27ub0n.png"></center>
+<center><img src="https://img.ascn.site/i/2020/03/19/27ub0n.png"></center>
 8. 更多经验等待你的发掘~kia~

@@ -17,15 +17,15 @@
 
 2.打开侧栏，找到`订阅设置`
 
-![](https://img.asnet.ga/i/2020/04/17/ynqc6s.png)
+![](https://img.ascn.site/i/2020/04/17/ynqc6s.png)
 
 3.复制上面给出的订阅地址，点击右上角的加号，粘贴到`地址(url)`，备注可以写`ASNebula`，然后点击右上角保存。
 
-![](https://img.asnet.ga/i/2020/04/17/3j3ptx.png)
+![](https://img.ascn.site/i/2020/04/17/3j3ptx.png)
 
 4.返回主界面，点击右上角三个点，选择更新订阅
 
-![](https://img.asnet.ga/i/2020/04/17/3lst2p.png)
+![](https://img.ascn.site/i/2020/04/17/3lst2p.png)
 
 5.选择节点，点击右下方V字图标，开始使用。
 
@@ -33,15 +33,15 @@
 	* #### 方法一：按软件分流
 1.打开侧栏，找到`设置`
 
-![](https://img.asnet.ga/i/2020/04/17/3nvhw3.png)
+![](https://img.ascn.site/i/2020/04/17/3nvhw3.png)
 2.选择`分应用代理`
-![](https://img.asnet.ga/i/2020/04/17/3yecbs.png)
+![](https://img.ascn.site/i/2020/04/17/3yecbs.png)
 
 3.可以点击右上角三个点，选择`自动选中需代理应用`
 	
-![](https://img.asnet.ga/i/2020/04/17/3zprzu.png)
+![](https://img.ascn.site/i/2020/04/17/3zprzu.png)
 
 4.也可以打开`绕行模式`，将不需要代理的应用勾选
 
-![](https://img.asnet.ga/i/2020/04/17/405ifz.png)
+![](https://img.ascn.site/i/2020/04/17/405ifz.png)
 
