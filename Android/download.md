@@ -1,2 +1,15 @@
 * Clash For Android
 	* [开发者页面](https://github.com/Kr328/ClashForAndroid/releases)
+	* [分流1 v2.0.18](https://cowtransfer.com/s/9188f6ff410748)
+* V2RayNG
+	* [开发者页面](https://github.com/2dust/v2rayNG/releases)
+	* [分流1 1.3.1](https://cowtransfer.com/s/e6aba3dd259b46)
+* ShadowsocksRR(SSRR)
+	* [开发者页面](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
+	* [分流1 v3.5.4-alpha](https://cowtransfer.com/s/5562bab6e54a46)
+* ShadowsocksD(SSD)
+	* [开发者页面](https://github.com/TheCGDF/SSD-Android/releases)
+	* [分流1 2020.1](https://cowtransfer.com/s/0a1eca809a7a46)
+* Shadowsocks(SS)
+	* [开发者页面](https://github.com/shadowsocks/shadowsocks-android/releases)
+	* [分流1 5.1.2](https://cowtransfer.com/s/828ff8d4615342)
