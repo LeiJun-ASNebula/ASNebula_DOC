@@ -15,3 +15,4 @@
 * Shadowsocks(SS)
 	* [开发者页面](https://github.com/shadowsocks/shadowsocks-android/releases)
 	* [分流1 5.1.2](https://cowtransfer.com/s/828ff8d4615342)
+	* [分流2 Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
