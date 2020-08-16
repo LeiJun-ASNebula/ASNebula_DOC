@@ -4,7 +4,7 @@
 * V2RayNG
 	* [开发者页面](https://github.com/2dust/v2rayNG/releases)
 	* [分流1 1.3.1](https://cowtransfer.com/s/e6aba3dd259b46)
-	* ![https://img.ascn.site/i/2020/08/17/3fj670.png](https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=zh)
+	* ![https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=zh](https://img.ascn.site/i/2020/08/17/3fj670.png)
 * ShadowsocksRR(SSRR)
 	* [开发者页面](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
 	* [分流1 v3.5.4-alpha](https://cowtransfer.com/s/5562bab6e54a46)
