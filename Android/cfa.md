@@ -1,5 +1,5 @@
 * ### 下载及安装
-  * 下载请 [点此跳转到下载中心](Clash/download.md)
+  * 下载请 [点此跳转到下载中心](Android/download.md)
 
 * ### 获取订阅
 
