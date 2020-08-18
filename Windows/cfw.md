@@ -15,4 +15,5 @@
 
 2.在主界面按照如图所示的进行配置。
 ![](https://img.ascn.site/i/2020/08/18/10ixmxd.png)
+
 注解：①点击Profiles（配置） ②输入订阅链接 ③点击Download（下载）
