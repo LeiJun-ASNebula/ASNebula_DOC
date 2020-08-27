@@ -1,6 +1,6 @@
 * Clash For Android
 	* [开发者页面](https://github.com/Kr328/ClashForAndroid/releases)
-	* [分流1 v2.0.18](https://cowtransfer.com/s/9188f6ff410748)
+	* [分流1 v2.1.1](https://cowtransfer.com/s/8a45b8f8efde42)
 	* [分流2 Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=zh)
 * V2RayNG
 	* [开发者页面](https://github.com/2dust/v2rayNG/releases)
@@ -14,5 +14,5 @@
 	* [分流1 2020.1](https://cowtransfer.com/s/0a1eca809a7a46)
 * Shadowsocks(SS)
 	* [开发者页面](https://github.com/shadowsocks/shadowsocks-android/releases)
-	* [分流1 5.1.2](https://cowtransfer.com/s/828ff8d4615342)
+	* [分流1 5.1.3](https://cowtransfer.com/s/068c490e02064f)
 	* [分流2 Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
