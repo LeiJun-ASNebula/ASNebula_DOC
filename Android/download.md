@@ -4,7 +4,7 @@
 	* [分流2 Google Play](https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=zh)
 * V2RayNG
 	* [开发者页面](https://github.com/2dust/v2rayNG/releases)
-	* [分流1 1.4.0](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_DOC@download/Android/V2RayNG/v2rayNG_1.4.0.apk)
+	* [分流1 1.4.0](https://github.com/LeiJun-ASNebula/ASNebula_DOC/raw/download/Android/V2RayNG/v2rayNG_1.4.0.apk)
 	* [分流2 Google Play](https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=zh)
 * ShadowsocksRR(SSRR)
 	* [开发者页面](https://github.com/shadowsocksrr/shadowsocksr-android/releases)
