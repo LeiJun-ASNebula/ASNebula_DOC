@@ -13,6 +13,6 @@
   * [开发者页面](https://github.com/TheCGDF/SSD-Windows/releases)
   * [分流1 2020.5](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_DOC@download/Windows/ShadowsocksD/SSD-2020.5-x86.zip)
   * [simple-obfs](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_DOC@download/Windows/obfs-local.zip)
-*　ShadowsocksRR
+* ShadowsocksRR
   * [开发者页面](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
   * [分流1 v4.9.2](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_DOC@download/Windows/ShadowsocksR/ShadowsocksR-win-4.9.2.7z)
