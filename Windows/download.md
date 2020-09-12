@@ -1,6 +1,8 @@
 * Clash For Windows
   * [开发者发行页面](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+  * [分流2 v 0.11.8](https://yunpan.360.cn/surl_yqid6g9x4eE)
   * [中文包发行页面](https://github.com/BoyceLig/Clash_Chinese_Patch/releases)
+  * [分流2 v 0.11.8](https://yunpan.360.cn/surl_yqidYKxWJup)
 * V2RayN
   * [开发者发行页面](https://github.com/2dust/v2rayN/releases)
   * [分流1 3.23](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_DOC@download/Windows/V2RayN/3.23/v2rayN-Core.7z)
