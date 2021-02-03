@@ -11,29 +11,29 @@
 	
 		a. 选择国籍，输入您的手机号，设置一个登录密码，阅读火币网用户协议，如您对此用户协议无异议，勾选上我已阅读并同意《用户协议》。
 		
-		   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/2.jpg)
+	![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/2.jpg)
 		   
 		b. 进行人机验证操作。如果您无法加载出来reCAPTCHA验证，请点击左下角的切换验证码，切换为滑块验证。
 		
-		   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/3.jpg)
+	![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/3.jpg)
 		   
-		   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/4.jpg)
+	![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/4.jpg)
 		   
 		c. 输入您手机号码所接收到的验证码。
 		
-		   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/5.jpg)
+	![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/5.jpg)
 		   
 		d. 注册成功，之后会自动跳转到主页。
 		
-		   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/6.jpg)
+	![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/6.jpg)
 		   
 		e. 点击右上角的法币设置。
 		
-		   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/7.jpg)
+	![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/7.jpg)
 		   
 		f. 设置您的昵称和交易密码。
 		
-		   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/8.jpg)
+	![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/8.jpg)
 		   
 		g. 然后按照火币网的提示，进行您的身份验证，即可完成注册。
 		
@@ -50,11 +50,11 @@
 	   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/11.jpg)
 
  - 在本站充值
-	 - 如果您打不开，请添加如下两条hosts
-	 
+	如果您打不开，请添加如下两条hosts
+	
 	   1.0.0.0 invoice.mugglepay.com
+	   
 	   1.0.0.0 asnebula.xyz
-
 
 	1. 打开我们的网站：https://asnebula.xyz ，进入用户中心，点击充值。
 	
