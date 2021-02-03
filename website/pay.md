@@ -97,5 +97,7 @@
 	   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/20.png)
 
   - 我们的联系方式：
-  	- 邮箱：admin@asnebula.xyz
-	- Telegram：@ASNebula 或 @ASNebula_LeiJun
+  
+    - 邮箱：admin@asnebula.xyz
+    
+    - Telegram：@ASNebula 或 @ASNebula_LeiJun
