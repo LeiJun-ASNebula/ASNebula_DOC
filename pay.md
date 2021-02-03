@@ -1,8 +1,12 @@
  - 注册交易所账户，例如：OKEx、火币。这里以火币网为例。
 	1. 打开火币网网站，或者火币网APP。
-		   火币网网址：www.huobi.com
+	
+	   火币网网址：www.huobi.com
+
 	2. 如果您有账号，请登录您的火币网账户并跳至第4节；如您没有账号，请点击注册。
-	   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/1.jpg)
+	
+	![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/1.jpg)
+	
 	3. 本节将教您如何注册一个火币网账户。推荐搭配谷歌验证器使用，进一步加强账户安全性。
 		a. 选择国籍，输入您的手机号，设置一个登录密码，阅读火币网用户协议，如您对此用户协议无异议，勾选上我已阅读并同意《用户协议》。
 		   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/2.jpg)
