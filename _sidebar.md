@@ -1,3 +1,5 @@
+* 网站教程
+	* [充值](website/pay.md)
 * Windows
   * [下载中心](Windows/download.md)
   * [在 Clash For Windows 上配置](Windows/cfw.md)
