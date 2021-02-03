@@ -94,9 +94,8 @@
 	   
 	10. 然后您就可以关闭这个页面，一般来说，5分钟之内即可自动到账。**如果您超过15分钟未到账，请立刻联系我们。**
 	
+	   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/20.png)
 
-	   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/19.jpg)
-	   
   - 我们的联系方式：
   	- 邮箱：admin@asnebula.xyz
 	- Telegram：@ASNebula 或 @ASNebula_LeiJun
