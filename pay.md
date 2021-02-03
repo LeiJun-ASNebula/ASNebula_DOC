@@ -84,7 +84,7 @@
 	
 	   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/16.jpg)
 	   
-	8. 在提币页面，在左上角选择币种为USDT，交易链类型与本节5所选的的一致，交易地址与提笔数量也是与第5节所获取的地址和数量一致，**一定要一致！！！**
+	8. 在提币页面，在左上角选择币种为USDT，交易链类型与第5节所选的的一致，交易地址与提笔数量也是与第5节所获取的地址和数量一致，**一定要一致！！！**
 	
 	   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/18.jpg)
 	   
@@ -96,6 +96,7 @@
 	
 
 	   ![](https://cdn.jsdelivr.net/gh/LeiJun-ASNebula/ASNebula_Images/Document/19.jpg)
+	   
   - 我们的联系方式：
   	- 邮箱：admin@asnebula.xyz
 	- Telegram：@ASNebula 或 @ASNebula_LeiJun
